@@ -10,7 +10,7 @@ Must-read papers on protein function prediction. The paper list is mainly mantai
   - [Papers](#papers)
     - [Nature and its series ](#nature)
     - [Other Journals and Conferences](#Others)
-  - [Other Contributors](#other-contributors)
+  - [Contributors](#other-contributors)
 
 
 
