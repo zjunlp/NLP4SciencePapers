@@ -4,7 +4,7 @@ Must-read papers on protein function prediction. The paper list is mainly mantai
 
 ## Contents
 
-- [PromptPapers](#promptpapers)
+- [Papers](#papers)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Papers](#papers)
