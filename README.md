@@ -47,4 +47,4 @@ This is a paper list about *protein function predition*.
 
 ## Contributors
 
- We thank [Zhen Bi](https://github.com/bizhen46766),  [Xiaozhuang Liang](https://github.com/orgs/zjunlp/people/Alexzhuan), [Siyuan Cheng](https://github.com/orgs/zjunlp/people/cheng-siyuanl), [Bozhong Tian](https://github.com/orgs/zjunlp/people/tbozhong) for the paper recommendation. Pull requests and issues are welcomed!
+ We thank all members in team [ZJUNLP](https://github.com/orgs/zjunlp/repositories) for the paper recommendation. Pull requests and issues are welcomed!
