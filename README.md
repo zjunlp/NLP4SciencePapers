@@ -1,6 +1,6 @@
-# ProteinFun_PaperList 
+# NLP4Science Papers
 
-Must-read papers on protein function prediction. The paper list is mainly mantained by team [ZJUNLP](https://github.com/orgs/zjunlp/repositories)
+Must-read papers on NLP for science (protein and molecular). The paper list is mainly mantained by team [ZJUNLP](https://github.com/orgs/zjunlp/repositories)
 
 ## Contents
 
