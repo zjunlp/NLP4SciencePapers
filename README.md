@@ -46,6 +46,10 @@ Must-read papers on NLP for science (protein and molecular). The paper list is m
 
 1. **A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals.**  Nature Communications. ![](https://img.shields.io/badge/17.694-blue) ![](https://img.shields.io/badge/PLM_models-red) *Zheni Zeng, Yuan Yao, Zhiyuan Liu, Maosong Sun.* [[pdf](https://www.nature.com/articles/s41467-022-28494-3)].  2022.2. 
 
+### Other Journals and Conferences
+
+1. **Translation between Molecules and Natural Language.**  EMNLP. ![](https://img.shields.io/badge/PLM_models-red) *Carl Edwards, Tuan Lai, Kevin Ros, Garrett Honke, Kyunghyun Cho, Heng Ji.*  [[pdf](https://arxiv.org/pdf/2204.11817.pdf)], 2022
+
 
 ## Contributors
 
