@@ -38,7 +38,7 @@ Must-read papers on NLP for science (protein and molecular). The paper list is m
 7. **Effusion: prediction of protein function from sequence similarity networks.** Bioinformatics.  ![](https://img.shields.io/badge/PPI-red) *Jeffrey M Yunes,  Patricia C Babbitt.*  [[pdf](https://academic.oup.com/bioinformatics/article/35/3/442/5063404)], 2019.2
 8. **Protein function prediction from dynamic protein interaction network using gene expression data.** Journal of Bioinformatics and Computational Biology. . ![](https://img.shields.io/badge/gene_expression-red) *Sovan Saha, Abhimanyu Prasad, Piyali Chatterjee, Subhadip Basu and Mita Nasipuri.*  [[pdf](https://www.worldscientific.com/doi/pdf/10.1142/S0219720019500252)], 2018.12
 9. **DeepText2GO: Improving large-scale protein function prediction with deep semantic text representation.**  Methods. ![](https://img.shields.io/badge/semantic_text-red) *Ronghui You, Xiaodi Huang, Shanfeng Zhu.*  [[pdf](https://pubmed.ncbi.nlm.nih.gov/29883746/)], 2018.08
-
+10. **Exploring Evolution-aware & free protein language models as protein function predictors.**  Neruips. ![](https://img.shields.io/badge/PLMs-red) *Hu, Mingyang and Yuan, Fajie and Yang, Kevin K and Ju, Fusong and Su, Jin and Wang, Hui and Yang, Fei and Ding, Qiuyang*  [[pdf](https://openreview.net/pdf?id=U8k0QaBgXS)], 2018.08
 ## NLP for Molecular Papers
 
 
