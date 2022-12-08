@@ -50,6 +50,7 @@ Must-read papers on NLP for science (protein and molecular). The paper list is m
 
 1. **Translation between Molecules and Natural Language.**  EMNLP. ![](https://img.shields.io/badge/PLM_models-red) *Carl Edwards, Tuan Lai, Kevin Ros, Garrett Honke, Kyunghyun Cho, Heng Ji.*  [[pdf](https://arxiv.org/pdf/2204.11817.pdf)], 2022
 2. **Chemformer: a pre-trained transformer for computational chemistry.**  Machine Learning. ![](https://img.shields.io/badge/PLM_models-red) *Ross Irwin, Spyridon Dimitriadis, Jiazhen He and Esben Jannik Bjerrum.* [[pdf](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb)], 2022.01
+3. **Multilingual Molecular Representation Learning via Contrastive Pre-training.** ACL. ![](https://img.shields.io/badge/PLM_models-red) *Zhihui Guo, Pramod Sharma, Andy Martinez, Liang Du, Robin Abraham.* [[pdf](https://aclanthology.org/2022.acl-long.242/)], 2022
 
 
 ## Contributors
