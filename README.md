@@ -45,6 +45,10 @@ Must-read papers on NLP for science (protein and molecular). The paper list is m
 ### Nature and its series 
 
 1. **A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals.**  Nature Communications. ![](https://img.shields.io/badge/17.694-blue) ![](https://img.shields.io/badge/PLM_models-red) *Zheni Zeng, Yuan Yao, Zhiyuan Liu, Maosong Sun.* [[pdf](https://www.nature.com/articles/s41467-022-28494-3)].  2022.02
+2. **Language models can learn complex molecular distributions.**  Nature Communications. ![](https://img.shields.io/badge/17.694-blue) ![](https://img.shields.io/badge/PLM_models-red) *Daniel Flam-Shepherd, Kevin Zhu, Alán Aspuru-Guzik.* [[pdf](https://www.nature.com/articles/s41467-022-30839-x)].  2022.07
+3. **Large-scale chemical language representations capture molecular structure and properties.** Nature Machine Intelligence. ![](https://img.shields.io/badge/17.694-blue) ![](https://img.shields.io/badge/PLM_models-red) *Jerret Ross, Brian Belgodere, Vijil Chenthamarakshan, Inkit Padhi, Youssef Mroueh, Payel Das.* [[pdf](https://www.nature.com/articles/s42256-022-00580-7)].  2022.12
+4. **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design.** Nature Communications. ![](https://img.shields.io/badge/17.694-blue) ![](https://img.shields.io/badge/PLM_models-red) *Michael Moret, Irene Pachon Angona, Leandro Cotos, Shen Yan, Kenneth Atz, Cyrill Brunner, Martin Baumgartner, Francesca Grisoni, Gisbert Schneider.* [[pdf](https://www.nature.com/articles/s41467-022-35692-6)].  2023.01
+
 
 ### Other Journals and Conferences
 
